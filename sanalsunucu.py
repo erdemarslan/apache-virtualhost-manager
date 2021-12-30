@@ -444,8 +444,8 @@ class Pencere(QWidget):
                     file.write("\t<directory \"" + str(documentfolder).replace("\\", "/") + "\">\n")
                     file.write("\t\tAllowOverride All\n")
                     file.write("\t\tOptions Indexes FollowSymLinks\n")
-                    file.write("\t\tOrder allow,deny\n")
-                    file.write("\t\tAllow from all\n")
+                    #file.write("\t\tOrder allow,deny\n")
+                    #file.write("\t\tAllow from all\n")
                     file.write("\t</directory>\n")
                     file.write("</virtualhost>")
 

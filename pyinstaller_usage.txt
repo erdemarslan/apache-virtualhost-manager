@@ -1,0 +1,1 @@
+pyinstaller --add-data "D:\ss\assets\*.*;assets" --windowed --icon "D:\ss\assets\icon.ico" --uac-admin sanalsunucu.py
