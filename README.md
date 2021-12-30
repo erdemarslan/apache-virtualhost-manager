@@ -33,6 +33,6 @@ C:\Windows\System32\drivers\etc
 Not: Apache son sürümlerinde virtual host dosyasında bazı değişikliklere gittiği için sanalsunucu.py dosyasında ufak bir güncelleme yapıldı. O yüzden setup dosyası kaldırıldı. pyinstaller ile kendi exenizi yapıp çalıştırın. İleride belki yeni bir installer oluştururum.
 
 ## License
-MIT
+GPL
 
 **Free Software!**
